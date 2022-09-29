@@ -4,6 +4,7 @@
   "description": "A personal website built using html, css, and javascript",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "repository": {
