@@ -123,6 +123,7 @@ main {
   display: flex;
   flex-direction: column;
   gap: 5px;
+  text-align: justify;
 }
 
 .about-head-article-paragraphs a {

@@ -119,6 +119,7 @@ main {
   flex-direction: column;
   gap: 20px;
   padding: 20px 0;
+  text-align: justify;
 }
 
 .about-head-article-header span {
