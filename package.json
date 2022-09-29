@@ -1,0 +1,30 @@
+{
+  "name": "quiz-1",
+  "version": "1.0.0",
+  "description": "A personal website built using html, css, and javascript",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazoka-kaka/quiz-1.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Yehezkiel Wiradhika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bazoka-kaka/quiz-1/issues"
+  },
+  "homepage": "https://github.com/bazoka-kaka/quiz-1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
